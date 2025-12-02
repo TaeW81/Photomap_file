@@ -19,7 +19,7 @@ git commit -m "auto deploy: html and index.html updated"
 git push origin main
 
 echo ===============================
-echo Done: http://taew81.github.io/photomap_file/index.html
+echo Done: http://taew81.github.io/Photomap_file/index.html
 echo ===============================
 pause
 

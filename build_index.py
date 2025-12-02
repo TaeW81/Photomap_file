@@ -25,7 +25,7 @@ def main():
     lines.append("    <h1>배포된 지도 링크 목록</h1>")
     lines.append("    <ul>")
 
-    base_url = "http://taew81.github.io/photomap_file/"
+    base_url = "http://taew81.github.io/Photomap_file/"
     for name in sorted(html_files):
         url = base_url + name
         lines.append(f'        <li><a href="{url}" target="_blank">{name}</a></li>')
