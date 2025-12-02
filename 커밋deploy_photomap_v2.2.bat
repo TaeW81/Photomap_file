@@ -21,5 +21,5 @@ git push origin main
 echo ===============================
 echo Done: http://taew81.github.io/Photomap_file/index.html
 echo ===============================
-pause
+
 
